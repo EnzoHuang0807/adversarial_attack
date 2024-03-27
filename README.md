@@ -1,8 +1,7 @@
 ### Testing for Adversarial Attacks
 
-* Models are referenced from https://github.com/osmr/imgclsmob
-* Code for transfer attack is referenced from https://github.com/Trustworthy-AI-Group/TransferAttack
-
+* Models are referenced from [imgclsmob](https://github.com/osmr/imgclsmob)
+* Code for transfer attack is referenced from [TransferAttack](https://github.com/Trustworthy-AI-Group/TransferAttack)
 
 To run the code, simply run `main.py` with optional arguments.  
 
