@@ -17,7 +17,7 @@ python3 main.py --eval --input_dir ./data --output_dir ./results --attack fgsm -
 ```
 -h, --help            show this help message and exit
 -e, --eval            attack/evluation
---attack {fgsm,ifgsm,mifgsm,nifgsm,pifgsm,vmifgsm,vnifgsm,emifgsm,ifgssm,vaifgsm,aifgtm,rap,gifgsm,pcifgsm,iefgsm,dta,gra,pgn,smifgrm,dim,tim,sim,atta,admix,dem,odi,ssm,aitl,maskblock,sia,stm,bsr,decowa,l2t,tap,ila,potrip,fia,yaila,logit,trap,naa,rpa,taig,fmaa,cfm,logit_margin,ilpd,fft,ir,sgm,iaa,dsm,mta,mup,bpa,dhf,pna_patchout,sapr,tgr,ghost,setr,ags} 
+--attack {fgsm,ifgsm,mifgsm,dim,tim,sim,admix,...} 
                       the attack algorithm
 --epoch EPOCH         the iterations for updating the adversarial patch
 --batchsize BATCHSIZE
